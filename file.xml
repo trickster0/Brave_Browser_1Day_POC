@@ -1,0 +1,9 @@
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="">
+	<channel>
+		<item>
+			<title><![CDATA[WHATEVER_THE_NEXT_CHAR_IS_THE_KEY<]]></title>
+			<link>NOT_RELEVANT_BUT_A_STRING_IS_REQUIRED_OR_IT_AINT_TRIGGERED</link>
+			<pubDate>Sat, 07 Jan 2022 09:59:50 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
